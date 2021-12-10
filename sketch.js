@@ -2,7 +2,7 @@ let x, y, z, t, p, p2, o, k, k2, rx, c1, c2, c3, x1, y1, z1;
 let Gametime, pause, Pvar, Complete, com1, Gametime1, o1, song;
 
 function preload() {
-    song = loadSound("31214.mp3"); //The Final Hour by Dimrain47
+    song = loadSound("31214[1].mp3"); //The Final Hour by Dimrain47
 }
 
 function setup() {
